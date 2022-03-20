@@ -1,0 +1,24 @@
+select salesperson.name
+from orders
+left join company
+on company.com_id = orders.com_id
+left join salesperson
+on salesperson.sales_id = orders.sales_id
+where company.name !='RED'
+#忽略了没买东西的人
+
+#solution
+SELECT
+    s.name
+FROM
+    salesperson s
+WHERE
+    s.sales_id NOT IN (SELECT
+            o.sales_id
+        FROM
+            orders o
+                LEFT JOIN
+            company c ON o.com_id = c.com_id
+        WHERE
+            c.name = 'RED')
+;

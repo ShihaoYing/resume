@@ -1,0 +1,21 @@
+# my solution
+select distinct b.name
+from Employee as a
+left join Employee as b
+on a.ManagerId = b.Id
+group by b.id
+having count(a.ManagerId)>=5
+
+#solution
+SELECT
+    Name
+FROM
+    Employee AS t1 JOIN
+    (SELECT
+        ManagerId
+    FROM
+        Employee
+    GROUP BY ManagerId
+    HAVING COUNT(ManagerId) >= 5) AS t2
+    ON t1.Id = t2.ManagerId
+;

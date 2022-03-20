@@ -1,0 +1,12 @@
+# my answer
+Select Email
+from Person
+Group by Email
+Having count(Email)>1
+
+# solution
+Select Email from
+( Select Email,count(Email) as num
+from Person
+group by Email) as statistic
+where num >1

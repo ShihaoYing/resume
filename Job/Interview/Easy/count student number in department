@@ -1,0 +1,12 @@
+select department.dept_name, count(student.student_id) as student_number
+from student right join department
+on student.dept_id = department.dept_id
+group by department.dept_id
+order by student_number DESC
+
+#solution
+select department.dept_name, count(student.student_id) as student_number
+from department left join student
+on student.dept_id = department.dept_id
+group by department.dept_id
+order by student_number DESC, department.dept_name

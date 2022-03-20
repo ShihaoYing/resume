@@ -1,0 +1,11 @@
+update salary
+set
+sex = case sex
+when 'm' then 'f'
+else 'm'
+end
+
+case input1
+when input2
+then (input1=input2为True) act 1
+else（input2=input2为False）act 2

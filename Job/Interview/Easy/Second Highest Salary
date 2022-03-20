@@ -1,0 +1,11 @@
+#My answer
+Select
+    (Select distinct Salary
+    From Employee
+     Order by Salary DESC
+     Limit 1 offset 1) as SecondHighestSalary
+
+#However, this solution will be judged as 'Wrong Answer'
+if there is no such second highest salary
+since there might be only one record in this table.
+To overcome this issue, we can take this as a temp table.
