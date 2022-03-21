@@ -105,17 +105,44 @@ Amazon Leadership Principle
 # 11. Invent and Simplify
 > Leaders expect and require innovation and invention from their teams and always find ways to simplify. They are externally aware, look for new ideas from everywhere, and are not limited by “not invented here." As we do new things, we accept that we may be misunderstood for long periods of time.
 
+* Simplify and always encourage others to innovate and change inefficient or unnecessarily complex process?
+* Use new ideas and methods to do your job better and enhance the customer experience?
+* Think up and implement great ideas and simple solutions?
+* Know when not to reinvent the wheel?
 
+***
 
 # 12. Learn and Be Curious
 Leaders are never done learning and always seek to improve themselves. They are curious about new possibilities and act to explore them.
 
+* Take time to read, watch a tech talk, or actively mentor someone else?
+* Ask your peers, managers, and customers for feedback on your performance?
+* Pick up work outside your area of expertise to stretch and grow?
+* Take time to understand your systems end to end？
+* Actively seek out advise from others?
+
+***
 
 # 13. Ownership
 Leaders are owners. They think long term and don’t sacrifice long-term value for short-term results. They act on behalf of the entire company, beyond just their own team. They never say “that’s not my job."
 
+* Ask questions?
+* Consider future outcomes (scalable, long-term value, etc)?
+* Give feedback - coach and develop others (peers, associates, managers)?
+* Speak up in meetings - question, challenge respectfully?
+* Understand your role and relationship with other roles
+* Understand the impact of your work on others?
+* Partner with peers across the network?
+
+***
 
 # 14. Think Big
 Thinking small is a self-fulfilling prophecy. Leaders create and communicate a bold direction that inspires results. They think differently and look around corners for ways to serve customers.
 
----
+* Take a radical approach and risks when necessary, always questioning traditional assumptions in pursuit of the biggest and best idea?
+* Translate broader mission into big, hairy ideas and tactics in your own work?
+* Ask questions to get a sense of direction and confirm how work fits into the short- and long-term picture?
+* Hungrily accept the challenge to create the best idea/solution and take risks?
+
+***
+**END**
