@@ -14,13 +14,25 @@ I'm someone with strong interest in problem solving through financial modeling a
 ### 1. Weee
 
 #### PO Tool Optimization 
+S: old tool need combine 10 csv sheet from 
 
 
-#### 
+#### Inventory monitor  
+1. in-stock rate improvement 
+2. Long tail - DNR & Holding suggestion 
+3. Opportunity item expansion 
+4. Working with Ops
+   Hamachi kama - imported item, NO UPC, a lot of out-bound mistake  
 
 
+#### working with Vendor 
+S: Some AP issues 
 
-#### 
+### Why Amazon
+Big platform, 
+
+### WHy leave
+relocate myself, 
 
 
 ### 2. Zendure
