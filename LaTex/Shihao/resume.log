@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.2.20)  21 FEB 2023 00:21
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2023.2.20)  2 MAY 2023 21:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -455,12 +455,12 @@ LaTeX Font Info:    Font shape `TU/FontAwesome(0)/m/sc' will be
 
 ] (./resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 3119D1553D4465D9694516A59009E487;2161.
+(rerunfilecheck)             Checksum: F770F58E21DB43685DBE32828A42F985;2297.
  ) 
 Here is how much of TeX's memory you used:
  13526 strings out of 478190
  264716 string characters out of 5854827
- 633906 words of memory out of 5000000
+ 634053 words of memory out of 5000000
  33958 multiletter control sequences out of 15000+600000
  469803 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
